@@ -1,2 +1,2 @@
 # message_mate
-its a whatsapp clone
+will update soon, working on it....
